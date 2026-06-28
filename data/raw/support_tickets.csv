@@ -1,0 +1,59 @@
+text,label
+"Cannot log in after password reset and customer demo starts in one hour",urgent
+"Payment failed twice and client says renewal will be cancelled today",urgent
+"Production API returns 500 errors for all users after release",urgent
+"Security alert says admin account has suspicious login from another country",urgent
+"Payroll file is missing and employees are asking about deposits",urgent
+"Database is down and checkout is unavailable for customers",urgent
+"CEO cannot access board deck before morning meeting",urgent
+"Multiple users report data loss after the migration",urgent
+"Contract signature link is broken and deadline is today",urgent
+"Patient portal is unavailable during clinic hours",urgent
+"The invoice total looks wrong and finance needs correction before close",urgent
+"Customer escalated because the integration stopped syncing overnight",urgent
+"Critical vulnerability report mentions exposed credentials in repository",urgent
+"Order processing queue is stuck and warehouse cannot ship",urgent
+"System outage affecting mobile app login since 6 am",urgent
+"Need help changing the logo on our monthly newsletter",non_urgent
+"How do I update my profile picture in the portal",non_urgent
+"Can someone explain where to download last quarter reports",non_urgent
+"I would like training material for the new dashboard",non_urgent
+"Please add my colleague to the mailing list next week",non_urgent
+"Question about the meaning of a field in the export file",non_urgent
+"The button color on the settings page looks outdated",non_urgent
+"Can we schedule a tutorial for the analytics module",non_urgent
+"I need a copy of an old receipt for my records",non_urgent
+"Please update our billing contact when convenient",non_urgent
+"Where can I find documentation for API pagination",non_urgent
+"Feature request to support dark mode in the future",non_urgent
+"Can you confirm the office holiday support schedule",non_urgent
+"I want to rename a saved report in the dashboard",non_urgent
+"Please send instructions for adding a new user",non_urgent
+"Checkout failing for every cart and revenue is dropping",urgent
+"Password reset email is delayed but no deadline",non_urgent
+"Urgent: confidential customer file was sent to the wrong account",urgent
+"The tutorial video has outdated screenshots",non_urgent
+"Server latency jumped and premium customer threatens churn today",urgent
+"Can I get a walkthrough of report filters",non_urgent
+"Data export crashed during month end close",urgent
+"Please change the spelling of our company name in the header",non_urgent
+"We see unauthorized charges and need investigation immediately",urgent
+"I cannot find the help article for custom roles",non_urgent
+"Emergency request: SSO outage blocks all employees",urgent
+"Would like to know if CSV exports support accents",non_urgent
+"Legal hold documents disappeared from search results",urgent
+"Requesting a sample template for onboarding emails",non_urgent
+"Customer cannot submit insurance claim before cutoff",urgent
+"Can you make the font larger in a report",non_urgent
+"All calls to billing endpoint time out",urgent
+"Need a non urgent review of dashboard naming",non_urgent
+"Production deployment broke account creation",urgent
+"Question about upgrading plan next month",non_urgent
+"Fraud team sees suspicious transactions in live system",urgent
+"Please send marketing screenshots for internal deck",non_urgent
+"Users locked out after MFA enrollment change",urgent
+"Can we add a new optional column someday",non_urgent
+"The reconciliation job failed before bank submission",urgent
+"Need advice on writing better release notes",non_urgent
+"Escalation: hospital users cannot access patient records",urgent
+"Please explain what the beta label means",non_urgent

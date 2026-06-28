@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/*.joblib
+models/*.pt
+outputs/*.png
+outputs/*.json
+.DS_Store

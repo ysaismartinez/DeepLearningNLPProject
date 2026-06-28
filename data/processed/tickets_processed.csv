@@ -1,0 +1,59 @@
+text,label,clean_text,target
+Cannot log in after password reset and customer demo starts in one hour,urgent,cannot log in after password reset and customer demo starts in one hour,1
+Payment failed twice and client says renewal will be cancelled today,urgent,payment failed twice and client says renewal will be cancelled today,1
+Production API returns 500 errors for all users after release,urgent,production api returns 500 errors for all users after release,1
+Security alert says admin account has suspicious login from another country,urgent,security alert says admin account has suspicious login from another country,1
+Payroll file is missing and employees are asking about deposits,urgent,payroll file is missing and employees are asking about deposits,1
+Database is down and checkout is unavailable for customers,urgent,database is down and checkout is unavailable for customers,1
+CEO cannot access board deck before morning meeting,urgent,ceo cannot access board deck before morning meeting,1
+Multiple users report data loss after the migration,urgent,multiple users report data loss after the migration,1
+Contract signature link is broken and deadline is today,urgent,contract signature link is broken and deadline is today,1
+Patient portal is unavailable during clinic hours,urgent,patient portal is unavailable during clinic hours,1
+The invoice total looks wrong and finance needs correction before close,urgent,the invoice total looks wrong and finance needs correction before close,1
+Customer escalated because the integration stopped syncing overnight,urgent,customer escalated because the integration stopped syncing overnight,1
+Critical vulnerability report mentions exposed credentials in repository,urgent,critical vulnerability report mentions exposed credentials in repository,1
+Order processing queue is stuck and warehouse cannot ship,urgent,order processing queue is stuck and warehouse cannot ship,1
+System outage affecting mobile app login since 6 am,urgent,system outage affecting mobile app login since 6 am,1
+Need help changing the logo on our monthly newsletter,non_urgent,need help changing the logo on our monthly newsletter,0
+How do I update my profile picture in the portal,non_urgent,how do i update my profile picture in the portal,0
+Can someone explain where to download last quarter reports,non_urgent,can someone explain where to download last quarter reports,0
+I would like training material for the new dashboard,non_urgent,i would like training material for the new dashboard,0
+Please add my colleague to the mailing list next week,non_urgent,please add my colleague to the mailing list next week,0
+Question about the meaning of a field in the export file,non_urgent,question about the meaning of a field in the export file,0
+The button color on the settings page looks outdated,non_urgent,the button color on the settings page looks outdated,0
+Can we schedule a tutorial for the analytics module,non_urgent,can we schedule a tutorial for the analytics module,0
+I need a copy of an old receipt for my records,non_urgent,i need a copy of an old receipt for my records,0
+Please update our billing contact when convenient,non_urgent,please update our billing contact when convenient,0
+Where can I find documentation for API pagination,non_urgent,where can i find documentation for api pagination,0
+Feature request to support dark mode in the future,non_urgent,feature request to support dark mode in the future,0
+Can you confirm the office holiday support schedule,non_urgent,can you confirm the office holiday support schedule,0
+I want to rename a saved report in the dashboard,non_urgent,i want to rename a saved report in the dashboard,0
+Please send instructions for adding a new user,non_urgent,please send instructions for adding a new user,0
+Checkout failing for every cart and revenue is dropping,urgent,checkout failing for every cart and revenue is dropping,1
+Password reset email is delayed but no deadline,non_urgent,password reset email is delayed but no deadline,0
+Urgent: confidential customer file was sent to the wrong account,urgent,urgent: confidential customer file was sent to the wrong account,1
+The tutorial video has outdated screenshots,non_urgent,the tutorial video has outdated screenshots,0
+Server latency jumped and premium customer threatens churn today,urgent,server latency jumped and premium customer threatens churn today,1
+Can I get a walkthrough of report filters,non_urgent,can i get a walkthrough of report filters,0
+Data export crashed during month end close,urgent,data export crashed during month end close,1
+Please change the spelling of our company name in the header,non_urgent,please change the spelling of our company name in the header,0
+We see unauthorized charges and need investigation immediately,urgent,we see unauthorized charges and need investigation immediately,1
+I cannot find the help article for custom roles,non_urgent,i cannot find the help article for custom roles,0
+Emergency request: SSO outage blocks all employees,urgent,emergency request: sso outage blocks all employees,1
+Would like to know if CSV exports support accents,non_urgent,would like to know if csv exports support accents,0
+Legal hold documents disappeared from search results,urgent,legal hold documents disappeared from search results,1
+Requesting a sample template for onboarding emails,non_urgent,requesting a sample template for onboarding emails,0
+Customer cannot submit insurance claim before cutoff,urgent,customer cannot submit insurance claim before cutoff,1
+Can you make the font larger in a report,non_urgent,can you make the font larger in a report,0
+All calls to billing endpoint time out,urgent,all calls to billing endpoint time out,1
+Need a non urgent review of dashboard naming,non_urgent,need a non urgent review of dashboard naming,0
+Production deployment broke account creation,urgent,production deployment broke account creation,1
+Question about upgrading plan next month,non_urgent,question about upgrading plan next month,0
+Fraud team sees suspicious transactions in live system,urgent,fraud team sees suspicious transactions in live system,1
+Please send marketing screenshots for internal deck,non_urgent,please send marketing screenshots for internal deck,0
+Users locked out after MFA enrollment change,urgent,users locked out after mfa enrollment change,1
+Can we add a new optional column someday,non_urgent,can we add a new optional column someday,0
+The reconciliation job failed before bank submission,urgent,the reconciliation job failed before bank submission,1
+Need advice on writing better release notes,non_urgent,need advice on writing better release notes,0
+Escalation: hospital users cannot access patient records,urgent,escalation: hospital users cannot access patient records,1
+Please explain what the beta label means,non_urgent,please explain what the beta label means,0
