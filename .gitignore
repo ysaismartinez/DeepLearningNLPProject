@@ -5,3 +5,4 @@ models/*.pt
 outputs/*.png
 outputs/*.json
 .DS_Store
+reports/
