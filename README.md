@@ -17,15 +17,15 @@ This project classifies customer support tickets as `urgent` or `non_urgent` usi
 ## Setup
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Run
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Models
